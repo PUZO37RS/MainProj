@@ -1,6 +1,8 @@
 [submodule "SubProj1"]
 	path = SubProj1
 	url = https://github.com/PUZO37RS/SubProj1.git
+	branch = feature1
 [submodule "SubProj2"]
 	path = SubProj2
 	url = https://github.com/PUZO37RS/SubProj2.git
+	branch = feature1
